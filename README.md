@@ -1,2 +1,1 @@
-Indice
-# IbaiRETO
+# Documentación de la Aplicación de Gestión Veterinaria
